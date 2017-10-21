@@ -1,4 +1,4 @@
-import Counter from './../src/components/Counter.js'
+import Counter from './../src/components/Counter.vue'
 import {mount} from 'vue-test-utils'
 import expect from 'expect'
 describe('Counter', () => {
